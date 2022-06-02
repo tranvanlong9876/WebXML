@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><students>
+    <student class="SE0662" id="00001">
+        <lastname>
+            Tran
+        </lastname>
+        <middlename>
+            Van
+        </middlename>
+        <firstname>
+            Long
+        </firstname>
+        <sex>1</sex>
+        <password>123456</password>
+        <address>118/124 Phan Huy Ich</address>
+        <status>studying</status>
+    </student>
+    <student class="SE0662" id="00002">
+        <lastname>
+            Nguyen
+        </lastname>
+        <middlename>
+            Van
+        </middlename>
+        <firstname>
+            A
+        </firstname>
+        <sex>2</sex>
+        <password>123456Long</password>
+        <address>118/125 Tan Binh 123</address>
+        <status>break</status>
+    </student>
+    
+    
+    <student class="SE1410" id="00005">
+        <lastname>
+            Huynh
+        </lastname>
+        <middlename>
+            Thi
+        </middlename>
+        <firstname>
+            Vy
+        </firstname>
+        <sex>1</sex>
+        <password>123456</password>
+        <address>118/124 Phan Huy Ich</address>
+        <status>studying</status>
+    </student>
+    
+    <student class="SE1410" id="00007">
+        <lastname>
+            Le
+        </lastname>
+        <middlename>
+            Ngoc
+        </middlename>
+        <firstname>
+            Trinh
+        </firstname>
+        <sex>2</sex>
+        <password>123456789</password>
+        <address>118/124 Phan Huy Ich1 w</address>
+        <status>studying</status>
+    </student>
+    
+</students>
